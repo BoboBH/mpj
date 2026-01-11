@@ -1,0 +1,32 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python manage.py:*)",
+      "Bash(pip show:*)",
+      "Bash(where:*)",
+      "Bash(\"D:\\\\Python38\\\\python.exe\":*)",
+      "Bash(\"D:\\\\Python38\\\\python.exe\" -m venv:*)",
+      "Bash(.venv/Scripts/pip:*)",
+      "Bash(.venv/Scripts/python.exe:*)",
+      "Bash(node:*)",
+      "Bash(npm --version)",
+      "Bash(git --version)",
+      "Bash(npm install:*)",
+      "Bash(git-mcp-server:*)",
+      "Bash(git init:*)",
+      "Bash(git config:*)",
+      "Bash(git add:*)",
+      "Bash(git commit:*)",
+      "Bash(gh repo create:*)",
+      "Bash(curl:*)",
+      "Bash(git remote add origin:*)",
+      "Bash(git branch:*)",
+      "Bash(git push:*)",
+      "Bash(ping:*)",
+      "Bash(git remote set-url:*)",
+      "Bash(git reset:*)",
+      "Bash(git filter-branch:*)",
+      "Bash(git checkout:*)"
+    ]
+  }
+}
